@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+build
+
+# Production
+.env.production
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+
+# Vite
+.vite
